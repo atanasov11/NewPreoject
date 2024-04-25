@@ -4,6 +4,12 @@ h1{
 p{
     color: red;
 }
-paragraf{
+.paragraf{
     color: darkblue;
+}
+.patrat{
+    background-color: darkred;
+    width: 100px;
+    height: 100px;
+
 }
